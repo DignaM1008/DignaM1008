@@ -7,9 +7,9 @@
 
 <img align="right" alt="Super" width="400" hight="300" src="https://blush.design/api/download?shareUri=fpiPGYnU-&c=Bottom_0%7E393f82-0.1%7E2b44ff-0.2%7E393f82_Hair_0%7E4a312c-0.1%7E181658-0.2%7E4a312c_Skin_0%7Eeac7a8-0.1%7Eeac7a8-0.2%7Ed4a181_Top_0%7E89c5cc-0.1%7Eff4133-0.2%7Effa434&bg=b0c4de&w=800&h=800&fm=png"/>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C , Java , Kotlin**
+- 💬 Ask me about **C , Java **
 
 - 📫 How to reach me **dignamistry1008@gmail.com**
 
