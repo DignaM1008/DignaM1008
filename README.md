@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dignam1008&label=Profile%20views&color=0e75b6&style=flat" alt="dignam1008" /> </p>
 <img align="right" alt="Devloper" width="400" hight="300" src="https://blush.design/api/download?shareUri=zrvTNJxRjo2HXcfT&c=Bottom_0%7E2b44ff-0.1%7E393f82_Hair_0%7Eb58143-0.1%7E2c1b18_Skin_0%7Ed4a181-0.1%7Eeac7a8_Top_0%7Ef2f2f2-0.1%7Effa434&w=800&h=800&fm=png">
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning ** Web Development **
 
 - 💬 Ask me about **C**
 
