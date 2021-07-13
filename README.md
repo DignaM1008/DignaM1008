@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dignam1008&show_icons=true&locale=en&layout=compact" alt="dignam1008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dignam1008&" alt="dignam1008" /></p>
