@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C , C++**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **dignamistry1008@gmail.com**
 
